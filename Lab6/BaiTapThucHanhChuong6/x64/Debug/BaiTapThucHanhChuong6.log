@@ -1,0 +1,3 @@
+﻿  BaiTapThucHanhChuong6.cpp
+D:\Codes\OOP\BaiTapThucHanhChuong6\BaiTapThucHanhChuong6\BaiTapThucHanhChuong6.cpp(73,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BaiTapThucHanhChuong6.vcxproj -> D:\Codes\OOP\BaiTapThucHanhChuong6\x64\Debug\BaiTapThucHanhChuong6.exe
